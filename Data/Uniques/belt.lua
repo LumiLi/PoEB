@@ -270,7 +270,7 @@ Gain 50 Life when you Stun an Enemy
 ]],[[
 Soulthirst
 Cloth Belt
-Requires Level 45
+Requires Level 40
 (15-25)% increased Stun Recovery
 +(60-80) to maximum Life
 +15% to all Elemental Resistances
